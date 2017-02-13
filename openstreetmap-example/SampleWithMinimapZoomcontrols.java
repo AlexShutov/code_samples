@@ -1,0 +1,1 @@
+SampleWithMinimapZoomcontrols.java

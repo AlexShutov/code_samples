@@ -1,6 +1,6 @@
 import android.util.Xml;
 
-import com.dayteam.goeng.model.Event;
+import com.lodoss.model.Event;
 
 import org.apache.commons.lang3.StringUtils;
 import org.xmlpull.v1.XmlPullParser;

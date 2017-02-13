@@ -1,4 +1,4 @@
-import com.dayteam.goeng.exception.RetrofitException;
+import com.lodoss.exception.RetrofitException;
 import com.jakewharton.retrofit2.adapter.rxjava2.HttpException;
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
